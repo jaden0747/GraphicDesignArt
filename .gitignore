@@ -1,0 +1,11 @@
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor and backup files
+*.bak
+*~
+*.tmp
+
+# Keep .aseprite and .png source files tracked
